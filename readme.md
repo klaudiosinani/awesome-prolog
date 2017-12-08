@@ -1,4 +1,4 @@
-# Awesome Prolog
+# Awesome Prolog [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of open-source Prolog frameworks, libraries and resources.
 
