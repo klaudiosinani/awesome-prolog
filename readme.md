@@ -25,12 +25,16 @@
 - [REST Frameworks](#rest-frameworks)
 - [Server](#server)
 - [Testing](#testing)
+- [Text Editor Extensions](#text-editor-extensions)
+	- [Vim](#vim)
+	- [Emacs](#emacs)
 - [Utilities](#utilities)
 - [Resources](#resources)
-  - [Tutorials](#tutorials)
-  - [Videos](#videos)
-  - [Books](#books)
-  - [Community](#community)
+	- [Tutorials](#tutorials)
+	- [Videos](#videos)
+	- [Books](#books)
+	- [Community](#community)
+- [Contributing](#contributing)
 - [License](#license)
 
 ## API interfaces
@@ -151,6 +155,16 @@
 - [tap](https://github.com/mndrix/tap) - Automated TAP testing.
 - [quickcheck](https://github.com/mndrix/quickcheck) - QuickCheck randomized testing.
 
+## Text Editor Extensions
+
+### Vim
+
+- [prolog.vim](https://github.com/adimit/prolog.vim) - Prolog integration for Vim.
+
+### Emacs
+
+- [ediprolog](https://github.com/triska/ediprolog) - Prolog integration for Emacs.
+
 ## Utilities
 
 - [pac](http://www.swi-prolog.org/pack/list?p=pac) - Anonymous predicates expansion utility.
@@ -207,6 +221,12 @@
   discussion forum.
 - [Stack Overflow Prolog](https://stackoverflow.com/questions/tagged/prolog) - User questions under the Prolog tag.
 - [Reddit Prolog](http://www.reddit.com/r/prolog) - Logic Programming and Prolog subreddit.
+
+## Contributing
+
+Contributions are super welcome!
+
+Have a look at the [Contributing Guidelines](https://github.com/akullpp/awesome-java/blob/master/CONTRIBUTING.md) on how to get started.
 
 ## License
 
