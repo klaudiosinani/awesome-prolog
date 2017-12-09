@@ -226,7 +226,7 @@
 
 Contributions are super welcome!
 
-Have a look at the [Contributing Guidelines](https://github.com/akullpp/awesome-java/blob/master/CONTRIBUTING.md) on how to get started.
+Have a look at the [Contributing Guidelines](contributing.md) on how to get started.
 
 ## License
 
