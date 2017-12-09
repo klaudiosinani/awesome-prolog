@@ -1,0 +1,26 @@
+{
+  "name": "awesome-prolog",
+  "version": "0.0.0",
+  "description": "⚡️ Curated list of Prolog packages and resources",
+  "license": "MIT",
+  "repository": "klauscfhq/awesome-prolog",
+  "author": {
+    "name": "Klaus Sinani",
+    "email": "klauscfhq@protonmail.com",
+    "url": "https://cookfood.me"
+  },
+  "maintainers": [
+    {
+      "name": "Mario Sinani",
+      "email": "mariosinani@protonmail.ch",
+      "url": "github.com/mariocfhq"
+    }
+  ],
+  "scripts": {
+    "test": "awesome-lint && markdown-link-check -p readme.md"
+  },
+  "dependencies": {
+    "awesome-lint": "^0.2.0",
+    "markdown-link-check": "^3.1.5"
+  }
+}
