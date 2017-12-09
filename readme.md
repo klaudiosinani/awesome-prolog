@@ -37,7 +37,7 @@
 
 - [twitter_pack](https://github.com/samwalrus/twitter_pack) - Twitter API interface.
 - [amazon_api](http://packs.ndrix.com/amazon_api/index.html) - Amazon API interface.
-- [blog_core](https://blog-core.net/) - Blog/CMS framework.
+- [blog_core](https://blog-core.net) - Blog/CMS framework.
 - [irc_client](https://github.com/eazar001/irc_client) - Low-level IRC interface.
 - [geoip](https://github.com/JanWielemaker/geoip) - GeoIP interface.
 - [plasticsearch](https://github.com/EricssonResearch/plasticsearch) - OMDB API interface.
@@ -52,17 +52,17 @@
 
 ## Compilers
 
-- [SWI-Prolog](http://www.swi-prolog.org/) - Widely used, comprehensive Prolog compiler.
-- [GNU Prolog](http://www.gprolog.org/) - ISO Prolog compiler with useful extensions.
-- [YAP](https://www.dcc.fc.up.pt/~vsc/Yap/) - High-performance Prolog compiler.
+- [SWI-Prolog](http://www.swi-prolog.org) - Widely used, comprehensive Prolog compiler.
+- [GNU Prolog](http://www.gprolog.org) - ISO Prolog compiler with useful extensions.
+- [YAP](https://www.dcc.fc.up.pt/~vsc/Yap) - High-performance Prolog compiler.
 
 ## Database
 
 - [prolongo](https://github.com/khueue/prolongo) - MongoDB driver.
 - [docstore](https://github.com/rla/docstore) - Document-oriented database.
-- [db_facts](http://stoics.org.uk/~nicos/sware/db_facts/) - Centric abstraction layer for SQL.
-- [bio_db](http://stoics.org.uk/~nicos/sware/bio_db/) - Biological datasets manager.
-- [prosqlite](http://stoics.org.uk/~nicos/sware/prosqlite/) - SQLite interface.
+- [db_facts](http://stoics.org.uk/~nicos/sware/db_facts) - Centric abstraction layer for SQL.
+- [bio_db](http://stoics.org.uk/~nicos/sware/bio_db) - Biological datasets manager.
+- [prosqlite](http://stoics.org.uk/~nicos/sware/prosqlite) - SQLite interface.
 
 ## Date
 
@@ -100,7 +100,7 @@
 
 ## Machine Learning
 
-- [mlu](http://stoics.org.uk/~nicos/sware/mlu/) - Probabilistic logic programs.
+- [mlu](http://stoics.org.uk/~nicos/sware/mlu) - Probabilistic logic programs.
 - [cplint](https://github.com/friguzzi/cplint) -  Reasoning suite for probabilistic logic programs.
 - [cplint_datasets](https://github.com/friguzzi/cplint_datasets) - Dataset for machine learning.
 
@@ -119,7 +119,7 @@
 
 ## Native
 
-- [by_unix](http://stoics.org.uk/~nicos/sware/by_unix/) - Unix primitives library.
+- [by_unix](http://stoics.org.uk/~nicos/sware/by_unix) - Unix primitives library.
 - [inotify](https://github.com/JanWielemaker/inotify) - Linux notification library.
 - [plmidi](https://github.com/samer--/plmidi) - Macos MIDI interface.
 
@@ -171,15 +171,15 @@
 - [Learn Prolog Now!](http://learnprolognow.org/lpnpage.php?pageid=online) - Thorough introductory course to programming in Prolog.
 - [P-99: Ninety-Nine Prolog Problems](https://sites.google.com/site/prologsite/prolog-problems) - Practice problems in Prolog and Logic programming.
 - [The Power of Prolog](https://www.metalevel.at/prolog) - Introduction to modern Prolog.
-- [Simply Logical](http://book.simply-logical.space/) - Intelligent reasoning by example.
+- [Simply Logical](http://book.simply-logical.space) - Intelligent reasoning by example.
 - [Prolog Wikibook](https://en.wikibooks.org/wiki/Prolog) - Thorough Prolog overview.
 
 #### Advanced
 
 - [Prolog for Software Engineering](https://www.cs.auckland.ac.nz/~j-hamer/07.363/prolog-for-se.html) - Software engineering fundamentals using Prolog.
 - [Prolog Modules](http://chiselapp.com/user/ttmrichter/repository/gng/doc/trunk/output/tutorials/swiplmodtut.html) - Fundamentals in SWI-Prolog Modules.
-- [Web Applications in SWI-Prolog](http://www.pathwayslms.com/swipltuts/html/) - Building web application with SWI-Prolog.
-- [Definite Clause Grammars](http://www.pathwayslms.com/swipltuts/dcg/) - Using Definite Clause Grammars in SWI-Prolog.
+- [Web Applications in SWI-Prolog](http://www.pathwayslms.com/swipltuts/html) - Building web application with SWI-Prolog.
+- [Definite Clause Grammars](http://www.pathwayslms.com/swipltuts/dcg) - Using Definite Clause Grammars in SWI-Prolog.
 - [Constraint Logic Programming over Finite Domains](http://www.pathwayslms.com/swipltuts/clpfd/clpfd.html) - Fundamentals of Constraint Systems on Finite Domains.
 - [Printing Messages in SWI-Prolog](http://www.pathwayslms.com/swipltuts/message/index.html) - IO handling in libraries.
 
@@ -191,7 +191,7 @@
 
 ### Books
 
-- [Adventure in Prolog ](http://www.amzi.com/AdventureInProlog/apreface.php) - Pragmatic approach to Prolog.
+- [Adventure in Prolog](http://www.amzi.com/AdventureInProlog/apreface.php) - Pragmatic approach to Prolog.
 - [Prolog Programming in Depth](http://www.covingtoninnovations.com/books.html#ppid) - Full coverage of the Prolog programming language.
 - [Logic, Programming and Prolog](http://www.j-paine.org/prolog/mathnotes/files/pms/node1.html) - Foundations of Logic programming and programming techniques in Prolog.
 - [Natural Language Processing for Prolog Programmers](http://www.covingtoninnovations.com/books.html#nlp) - Turning theories into practical techniques.
@@ -200,14 +200,14 @@
 
 ### Community
 
-- [Prolog FAQ](https://www.metalevel.at/prolog/faq/) - Frequently Asked Questions list of the SWI-Prolog newsgroup.
+- [Prolog FAQ](https://www.metalevel.at/prolog/faq) - Frequently Asked Questions list of the SWI-Prolog newsgroup.
 - [SWI-Prolog Mailing List](http://www.swi-prolog.org/Mailinglist.html) - Announcements, questions and discussion among SWI-PROLOG users.
 - [SWI-Prolog Freenode](http://webchat.freenode.net/?channels=##prolog) - IRC channel of the SWI-Prolog community.
 - [SWI-Prolog Google Group](https://groups.google.com/forum/#!forum/swi-prolog) - SWI-Prolog user
   discussion forum.
 - [Stack Overflow Prolog](https://stackoverflow.com/questions/tagged/prolog) - User questions under the Prolog tag.
-- [Reddit Prolog](http://www.reddit.com/r/prolog/) - Logic Programming and Prolog subreddit.
+- [Reddit Prolog](http://www.reddit.com/r/prolog) - Logic Programming and Prolog subreddit.
 
 ## License
 
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
