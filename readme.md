@@ -83,6 +83,7 @@
 ## IDE
 
 - [swish](https://github.com/SWI-Prolog/swish) - SWI-Prolog web IDE.
+- [Prolog Development Tool](http://sewiki.iai.uni-bonn.de/research/pdt/docs/start) - Prolog IDE for Eclipse.
 
 ## Interpreters
 
