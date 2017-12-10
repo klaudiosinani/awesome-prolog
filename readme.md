@@ -116,8 +116,8 @@
 
 ## Miscellaneous
 
-- [Online Compiler](https://www.tutorialspoint.com/execute_prolog_online.php) - Execute Prolog online.
-- [turing](https://bitbucket.org/ttmrichter/turing/src) - Turing Machine Simulator.
+- [Online compiler](https://www.tutorialspoint.com/execute_prolog_online.php) - Execute Prolog online.
+- [turing](https://bitbucket.org/ttmrichter/turing/src) - Turing Machine simulator.
 - [yesbot](https://github.com/eazar001/yesbot) - IRC Bot.
 - [webconsole](http://www.swi-prolog.org/pack/list?p=webconsole) - Browser as HTML console.
 - [prologmud](https://github.com/TeamSPoon/prologmud_samples) - Online text adventure game.
@@ -131,7 +131,7 @@
 
 ## Object Oriented Programming
 
-- [logtalk](http://www.swi-prolog.org/pack/list?p=logtalk) - Object-oriented logic programming.
+- [logtalk](http://www.swi-prolog.org/pack/list?p=logtalk) - Object oriented logic programming.
 
 ## Parsing
 
