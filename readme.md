@@ -127,6 +127,7 @@
 - [by_unix](http://stoics.org.uk/~nicos/sware/by_unix) - Unix primitives library.
 - [inotify](https://github.com/JanWielemaker/inotify) - Linux notification library.
 - [plmidi](https://github.com/samer--/plmidi) - Macos MIDI interface.
+- [plgi](http://www.swi-prolog.org/pack/list?p=plgi) - Gnome bindings.
 
 ## Object Oriented Programming
 
