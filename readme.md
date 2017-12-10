@@ -44,7 +44,7 @@
 - [blog_core](https://blog-core.net) - Blog/CMS framework.
 - [irc_client](https://github.com/eazar001/irc_client) - Low-level IRC interface.
 - [geoip](https://github.com/JanWielemaker/geoip) - GeoIP interface.
-- [plasticsearch](https://github.com/EricssonResearch/plasticsearch) - OMDB API interface.
+- [pl_omdb](https://github.com/eazar001/pl_omdb) - OMDB API interface.
 
 ## Artificial Intelligence
 
