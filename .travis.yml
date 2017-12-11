@@ -1,7 +1,6 @@
-language: node_js
-
-node_js:
-  - '6'
-
-script:
-  - npm test
+language: ruby
+rvm: 2.2
+before_script: gem install awesome_bot
+script: awesome_bot readme.md --allow-dupe
+notifications:
+  email: false
