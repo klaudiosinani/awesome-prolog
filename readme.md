@@ -195,7 +195,7 @@
 - [Prolog for Software Engineering](https://www.cs.auckland.ac.nz/~j-hamer/07.363/prolog-for-se.html) - Software engineering fundamentals using Prolog.
 - [Prolog Modules](http://chiselapp.com/user/ttmrichter/repository/gng/doc/trunk/output/tutorials/swiplmodtut.html) - Fundamentals in SWI-Prolog Modules.
 - [Web Applications in SWI-Prolog](http://www.pathwayslms.com/swipltuts/html) - Building web application with SWI-Prolog.
-- [Definite Clause Grammars](http://www.pathwayslms.com/swipltuts/dcg) - Using Definite Clause Grammars in SWI-Prolog.
+- [Definite Clause Grammars Primer](https://www.metalevel.at/prolog/dcg) - Using Definite Clause Grammars in SWI-Prolog.
 - [Constraint Logic Programming over Finite Domains](http://www.pathwayslms.com/swipltuts/clpfd/clpfd.html) - Fundamentals of Constraint Systems on Finite Domains.
 - [Printing Messages in SWI-Prolog](http://www.pathwayslms.com/swipltuts/message/index.html) - IO handling in libraries.
 
