@@ -151,6 +151,7 @@
 ## Server
 
 - [httppl](https://github.com/jamesbvaughan/httppl) - Simple HTTP server.
+- [letswicrypt](https://github.com/triska/letswicrypt) - HTTPS server.
 
 ## Testing
 
