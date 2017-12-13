@@ -157,6 +157,7 @@
 
 - [tap](https://github.com/mndrix/tap) - Automated TAP testing.
 - [quickcheck](https://github.com/mndrix/quickcheck) - QuickCheck randomized testing.
+- [PlUnit](http://www.swi-prolog.org/pldoc/package/plunit.html) - Prolog unit tests.
 
 ## Text Editor Extensions
 
