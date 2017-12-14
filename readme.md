@@ -28,6 +28,7 @@
 - [Text Editor Extensions](#text-editor-extensions)
 	- [Vim](#vim)
 	- [Emacs](#emacs)
+	- [Sublime Text](#sublime-text)
 - [Utilities](#utilities)
 - [Resources](#resources)
 	- [Tutorials](#tutorials)
@@ -169,6 +170,11 @@
 ### Emacs
 
 - [ediprolog](https://github.com/triska/ediprolog) - Prolog integration for Emacs.
+
+### Sublime Text
+
+- [sublimeprolog](https://github.com/alnkpa/sublimeprolog) - Prolog integration
+  for Sublime Text.
 
 ## Utilities
 
