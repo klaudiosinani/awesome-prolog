@@ -210,7 +210,7 @@
 ### Videos
 
 - [Prolog Tutorial](https://www.youtube.com/watch?v=SykxWpFwMGs) - General hour-long video tutorial.
-- [Introduction to PROLOG](https://www.youtube.com/watch?v=GHLfeGN5OMk) - Hour-long introduction to Prolog.
+- [Introduction to Prolog](https://www.youtube.com/watch?v=GHLfeGN5OMk) - Hour-long introduction to Prolog.
 - [Programming In Prolog](https://youtu.be/gJOZZvYijqk) - Four-part video introduction.
 
 ### Books
@@ -225,7 +225,7 @@
 ### Community
 
 - [Prolog FAQ](https://www.metalevel.at/prolog/faq) - Frequently Asked Questions list of the SWI-Prolog newsgroup.
-- [SWI-Prolog Mailing List](http://www.swi-prolog.org/Mailinglist.html) - Announcements, questions and discussion among SWI-PROLOG users.
+- [SWI-Prolog Mailing List](http://www.swi-prolog.org/Mailinglist.html) - Announcements, questions and discussion among SWI-Prolog users.
 - [SWI-Prolog Freenode](http://webchat.freenode.net/?channels=##prolog) - IRC channel of the SWI-Prolog community.
 - [SWI-Prolog Google Group](https://groups.google.com/forum/#!forum/swi-prolog) - SWI-Prolog user
   discussion forum.
