@@ -23,6 +23,6 @@ Thank you for your suggestion!
 
 - Non-trivial changes are often best discussed in an issue first, to prevent you from doing unnecessary work
 - Use a descriptive title for the pull request and commits
-- You might be asked to do changes to your pull request, you can do that by just [updating the existing one](https://github.com/RichardLitt/docs/blob/master/amending-a-commit-guide.md)
+- You might be asked to do changes to your pull request, you can do that by just [updating the existing one](https://github.com/RichardLitt/knowledge/blob/master/github/amending-a-commit-guide.md)
 
 > Contributing.md based on the one of https://github.com/sindresorhus/awesome-nodejs
