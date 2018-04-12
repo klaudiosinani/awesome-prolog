@@ -186,6 +186,7 @@
 - [fileutils](http://www.swi-prolog.org/pack/list?p=fileutils) - File manipulation library.
 - [dia](http://www.swi-prolog.org/pack/list?p=dia) - UML loading predicates.
 - [cplint_r](https://github.com/frnmst/cplint_r) - R plotting predicates.
+- [tuProlog](http://apice.unibo.it/xwiki/bin/view/Tuprolog/WebHome) - Light-weight system for distributed applications and infrastructures.
 
 ## Resources
 
