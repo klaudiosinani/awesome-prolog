@@ -179,6 +179,10 @@
 
 ## Resources
 
+### Guidelines
+
+- [Coding Guidelines for Prolog](https://arxiv.org/abs/0911.2899) - Coding standards and good practices that are fundamental in Prolog programming.
+
 ### Tutorials
 
 #### Beginner
