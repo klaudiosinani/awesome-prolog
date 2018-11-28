@@ -56,7 +56,7 @@
 
 - [SWI-Prolog](http://www.swi-prolog.org) - Widely used, comprehensive Prolog compiler.
 - [GNU Prolog](http://www.gprolog.org) - ISO Prolog compiler with useful extensions.
-- [YAP](https://www.dcc.fc.up.pt/~vsc/Yap) - High-performance Prolog compiler.
+- [YAP](https://www.dcc.fc.up.pt/~vsc/yap) - High-performance Prolog compiler.
 
 ## Database
 
