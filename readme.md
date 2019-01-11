@@ -85,6 +85,7 @@
 
 ## Interpreters
 
+- [C#Prolog](https://www.nuget.org/packages/CSProlog/) - Interpreter in C#.
 - [golog](https://github.com/mndrix/golog) - Interpreter in Go.
 - [erlog](https://github.com/rvirding/erlog) - Interpreter in Erlang.
 - [chalk](https://github.com/rust-lang-nursery/chalk) - Interpreter in Rust.
