@@ -88,9 +88,11 @@
 - [golog](https://github.com/mndrix/golog) - Interpreter in Go.
 - [erlog](https://github.com/rvirding/erlog) - Interpreter in Erlang.
 - [chalk](https://github.com/rust-lang-nursery/chalk) - Interpreter in Rust.
+- [scryer prolog](https://github.com/mthom/scryer-prolog) - ISO-compatible interpreter in Rust.
 - [jiprolog](https://github.com/jiprolog/jiprolog) - Interpreter in Java.
 - [prolog.js](https://github.com/jldupont/prolog.js) - Interpreter in JavaScript.
 - [prolog](https://github.com/Erdwolf/prolog) - Interpreter in Haskell.
+- [ELPI](https://github.com/LPCIC/elpi) - Embeddable λProlog Interpreter in OCaml
 
 ## JSON
 
@@ -217,8 +219,9 @@
 - [Prolog FAQ](https://www.metalevel.at/prolog/faq) - Frequently Asked Questions list of the SWI-Prolog newsgroup.
 - [SWI-Prolog Mailing List](http://www.swi-prolog.org/Mailinglist.html) - Announcements, questions and discussion among SWI-Prolog users.
 - [SWI-Prolog Freenode](http://webchat.freenode.net/?channels=##prolog) - IRC channel of the SWI-Prolog community.
+- [SWI-Prolog Discourse](https://swi-prolog.discourse.group/) - Official SWI-Prolog Discourse board.
 - [SWI-Prolog Google Group](https://groups.google.com/forum/#!forum/swi-prolog) - SWI-Prolog user
-  discussion forum.
+  discussion forum **DEPRECATED**.
 - [Stack Overflow Prolog](https://stackoverflow.com/questions/tagged/prolog) - User questions under the Prolog tag.
 - [Reddit Prolog](http://www.reddit.com/r/prolog) - Logic Programming and Prolog subreddit.
 
