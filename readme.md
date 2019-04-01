@@ -57,6 +57,7 @@
 - [SWI-Prolog](http://www.swi-prolog.org) - Widely used, comprehensive Prolog compiler.
 - [GNU Prolog](http://www.gprolog.org) - ISO Prolog compiler with useful extensions.
 - [YAP](https://www.dcc.fc.up.pt/~vsc/Yap) - High-performance Prolog compiler.
+- [Ciao](https://github.com/ciao-lang/ciao) - A Prolog system with many extensions.
 
 ## Database
 
@@ -77,6 +78,7 @@
 - [func](https://github.com/mndrix/func/) - Function application and composition.
 - [condition](https://github.com/mndrix/condition) - Common Lisp-like condition system.
 - [function_expansion](https://github.com/mndrix/function_expansion) - Function-like macros.
+- [fsyntax](http://ciao-lang.org/ciao/build/doc/ciao.html/fsyntax_doc.html) - Ciao functional syntax.
 
 ## IDE
 
@@ -95,6 +97,7 @@
 ## JSON
 
 - [djson](http://packs.ndrix.com/djson/index.html) - Declarative JSON.
+- [json](http://ciao-lang.org/ciao/build/doc/ciao.html/json.html) - JSON encoder and decoder.
 
 ## Logging
 
@@ -162,6 +165,7 @@
 
 - [prolog.vim](https://github.com/adimit/prolog.vim) - Prolog integration for Vim.
 - [ediprolog](https://github.com/triska/ediprolog) - Prolog integration for Emacs.
+- [Ciao mode for Emacs](https://github.com/ciao-lang/ciao_emacs) - Ciao (and Prolog) Emacs mode.
 - [sublimeprolog](https://github.com/alnkpa/sublimeprolog) - Prolog integration
   for Sublime Text.
 
