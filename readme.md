@@ -179,10 +179,6 @@
 
 ## Resources
 
-### Guidelines
-
-- [Coding Guidelines for Prolog](https://arxiv.org/abs/0911.2899) - Coding standards and good practices that are fundamental in Prolog programming.
-
 ### Tutorials
 
 #### Beginner
@@ -215,6 +211,7 @@
 - [Natural Language Processing for Prolog Programmers](http://www.covingtoninnovations.com/books.html#nlp) - Turning theories into practical techniques.
 - [Artificial Intelligence through Prolog](http://faculty.nps.edu/ncrowe/book/book.html) - In-depth coverage of key concepts on artificial intelligence.
 - [Building Expert Systems in Prolog](http://www.amzi.com/ExpertSystemsInProlog/index.htm) - Build prototype expert system shells and their underlying inference engines.
+- [Coding Guidelines for Prolog](https://arxiv.org/abs/0911.2899) - Coding standards and good practices for Prolog.
 
 ### Community
 
