@@ -219,7 +219,7 @@
 - [SWI-Prolog Mailing List](http://www.swi-prolog.org/Mailinglist.html) - Announcements, questions and discussion among SWI-Prolog users.
 - [SWI-Prolog Freenode](http://webchat.freenode.net/?channels=##prolog) - IRC channel of the SWI-Prolog community.
 - [SWI-Prolog Google Group](https://groups.google.com/forum/#!forum/swi-prolog) - SWI-Prolog user
-  discussion forum.
+  discussion forum **DEPRECATED**.
 - [Stack Overflow Prolog](https://stackoverflow.com/questions/tagged/prolog) - User questions under the Prolog tag.
 - [Reddit Prolog](http://www.reddit.com/r/prolog) - Logic Programming and Prolog subreddit.
 
