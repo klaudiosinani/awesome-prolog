@@ -91,6 +91,7 @@
 - [jiprolog](https://github.com/jiprolog/jiprolog) - Interpreter in Java.
 - [prolog.js](https://github.com/jldupont/prolog.js) - Interpreter in JavaScript.
 - [prolog](https://github.com/Erdwolf/prolog) - Interpreter in Haskell.
+- [ELPI](https://github.com/LPCIC/elpi) - Embeddable λProlog Interpreter in OCaml.
 
 ## JSON
 
