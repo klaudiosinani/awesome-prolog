@@ -216,6 +216,7 @@
 ### Community
 
 - [Prolog FAQ](https://www.metalevel.at/prolog/faq) - Frequently Asked Questions list of the SWI-Prolog newsgroup.
+- [SWI-Prolog Discourse](https://swi-prolog.discourse.group/) - Official SWI-Prolog Discourse board.
 - [SWI-Prolog Mailing List](http://www.swi-prolog.org/Mailinglist.html) - Announcements, questions and discussion among SWI-Prolog users.
 - [SWI-Prolog Freenode](http://webchat.freenode.net/?channels=##prolog) - IRC channel of the SWI-Prolog community.
 - [SWI-Prolog Google Group](https://groups.google.com/forum/#!forum/swi-prolog) - SWI-Prolog user
