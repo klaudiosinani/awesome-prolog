@@ -161,10 +161,10 @@
 ## Text Editor Extensions
 
 - [prolog.vim](https://github.com/adimit/prolog.vim) - Prolog integration for Vim.
-- [repl.vim](https://github.com/ujihisa/repl.vim) - VIM REPL with support for SWIProlog.
 - [ediprolog](https://github.com/triska/ediprolog) - Prolog integration for Emacs.
 - [sublimeprolog](https://github.com/alnkpa/sublimeprolog) - Prolog integration
   for Sublime Text.
+- [repl.vim](https://github.com/ujihisa/repl.vim) - VIM REPL with support for SWIProlog.
 
 ## Utilities
 
