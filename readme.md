@@ -166,6 +166,7 @@
 - [ediprolog](https://github.com/triska/ediprolog) - Prolog integration for Emacs.
 - [sublimeprolog](https://github.com/alnkpa/sublimeprolog) - Prolog integration
   for Sublime Text.
+- [repl.vim](https://github.com/ujihisa/repl.vim) - VIM REPL with support for SWIProlog.
 
 ## Utilities
 
