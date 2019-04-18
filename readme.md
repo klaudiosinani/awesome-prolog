@@ -82,7 +82,7 @@
 
 - [swish](https://github.com/SWI-Prolog/swish) - SWI-Prolog web IDE.
 - [Prolog Development Tool](http://sewiki.iai.uni-bonn.de/research/pdt/docs/start) - Prolog IDE for Eclipse.
-- [VSC-Prolog](https://github.com/arthwang/vsc-prolog) - Prolog extension for Visual Studio Code..
+- [VSC-Prolog](https://github.com/arthwang/vsc-prolog) - Prolog extension for Visual Studio Code.
 
 ## Interpreters
 
