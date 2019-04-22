@@ -77,6 +77,7 @@
 - [func](https://github.com/mndrix/func/) - Function application and composition.
 - [condition](https://github.com/mndrix/condition) - Common Lisp-like condition system.
 - [function_expansion](https://github.com/mndrix/function_expansion) - Function-like macros.
+- [fsyntax](http://ciao-lang.org/ciao/build/doc/ciao.html/fsyntax_doc.html) - Ciao functional syntax.
 
 ## IDE
 
@@ -97,6 +98,7 @@
 ## JSON
 
 - [djson](http://packs.ndrix.com/djson/index.html) - Declarative JSON.
+- [json](http://ciao-lang.org/ciao/build/doc/ciao.html/json.html) - JSON encoder and decoder.
 
 ## Logging
 
