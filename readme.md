@@ -93,6 +93,7 @@
 - [prolog.js](https://github.com/jldupont/prolog.js) - Interpreter in JavaScript.
 - [prolog](https://github.com/Erdwolf/prolog) - Interpreter in Haskell.
 - [ELPI](https://github.com/LPCIC/elpi) - Embeddable λProlog Interpreter in OCaml.
+- [scryer prolog](https://github.com/mthom/scryer-prolog) - ISO-compatible interpreter in Rust.
 
 ## JSON
 
