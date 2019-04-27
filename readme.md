@@ -58,6 +58,7 @@
 - [GNU Prolog](http://www.gprolog.org) - ISO Prolog compiler with useful extensions.
 - [YAP](https://www.dcc.fc.up.pt/~vsc/yap) - High-performance Prolog compiler.
 - [Ciao](https://github.com/ciao-lang/ciao) - A Prolog system with many extensions.
+- [Eclipse CLP](https://eclipseclp.org/) - A constraint logic programming system.
 - [XSB](http://xsb.sourceforge.net/) - XSB logic programming and deductive database system.
 
 ## Database
@@ -171,6 +172,7 @@
 - [sublimeprolog](https://github.com/alnkpa/sublimeprolog) - Prolog integration
   for Sublime Text.
 - [repl.vim](https://github.com/ujihisa/repl.vim) - VIM REPL with support for SWIProlog.
+- [Ciao mode for Emacs](https://github.com/ciao-lang/ciao_emacs) - Emacs mode for Ciao and Prolog.
 
 ## Utilities
 
