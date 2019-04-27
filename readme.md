@@ -170,6 +170,7 @@
 - [sublimeprolog](https://github.com/alnkpa/sublimeprolog) - Prolog integration
   for Sublime Text.
 - [repl.vim](https://github.com/ujihisa/repl.vim) - VIM REPL with support for SWIProlog.
+- [Ciao mode for Emacs](https://github.com/ciao-lang/ciao_emacs) - Emacs mode for Ciao and Prolog.
 
 ## Utilities
 
