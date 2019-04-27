@@ -57,7 +57,8 @@
 - [SWI-Prolog](http://www.swi-prolog.org) - Widely used, comprehensive Prolog compiler.
 - [GNU Prolog](http://www.gprolog.org) - ISO Prolog compiler with useful extensions.
 - [YAP](https://www.dcc.fc.up.pt/~vsc/yap) - High-performance Prolog compiler.
-- [XSB](http://xsb.sourceforge.net/) - XSB Logic Programming and Deductive Database system.
+- [Ciao](https://github.com/ciao-lang/ciao) - A Prolog system with many extensions.
+- [XSB](http://xsb.sourceforge.net/) - XSB logic programming and deductive database system.
 
 ## Database
 
@@ -78,6 +79,7 @@
 - [func](https://github.com/mndrix/func/) - Function application and composition.
 - [condition](https://github.com/mndrix/condition) - Common Lisp-like condition system.
 - [function_expansion](https://github.com/mndrix/function_expansion) - Function-like macros.
+- [fsyntax](http://ciao-lang.org/ciao/build/doc/ciao.html/fsyntax_doc.html) - Ciao functional syntax.
 
 ## IDE
 
@@ -94,6 +96,7 @@
 - [prolog.js](https://github.com/jldupont/prolog.js) - Interpreter in JavaScript.
 - [prolog](https://github.com/Erdwolf/prolog) - Interpreter in Haskell.
 - [ELPI](https://github.com/LPCIC/elpi) - Embeddable λProlog Interpreter in OCaml.
+- [scryer prolog](https://github.com/mthom/scryer-prolog) - ISO-compatible interpreter in Rust.
 
 ## JSON
 
@@ -220,6 +223,7 @@
 ### Community
 
 - [Prolog FAQ](https://www.metalevel.at/prolog/faq) - Frequently Asked Questions list of the SWI-Prolog newsgroup.
+- [SWI-Prolog Discourse](https://swi-prolog.discourse.group/) - Official SWI-Prolog Discourse board.
 - [SWI-Prolog Mailing List](http://www.swi-prolog.org/Mailinglist.html) - Announcements, questions and discussion among SWI-Prolog users.
 - [SWI-Prolog Freenode](http://webchat.freenode.net/?channels=##prolog) - IRC channel of the SWI-Prolog community.
 - [SWI-Prolog Google Group](https://groups.google.com/forum/#!forum/swi-prolog) - SWI-Prolog user
