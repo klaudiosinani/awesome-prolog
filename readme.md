@@ -221,6 +221,7 @@
 - [Artificial Intelligence through Prolog](http://faculty.nps.edu/ncrowe/book/book.html) - In-depth coverage of key concepts on artificial intelligence.
 - [Building Expert Systems in Prolog](http://www.amzi.com/ExpertSystemsInProlog/index.htm) - Build prototype expert system shells and their underlying inference engines.
 - [Coding Guidelines for Prolog](https://arxiv.org/abs/0911.2899) - Coding standards and good practices for Prolog.
+- [The Art of Prolog](https://mitpress.mit.edu/books/art-prolog-second-edition) - Advanced programming techniques for Prolog.
 
 ### Community
 
