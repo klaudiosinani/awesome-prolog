@@ -56,7 +56,7 @@
 
 - [SWI-Prolog](http://www.swi-prolog.org) - Widely used, comprehensive Prolog compiler.
 - [GNU Prolog](http://www.gprolog.org) - ISO Prolog compiler with useful extensions.
-- [YAP](https://www.dcc.fc.up.pt/~vsc/yap) - High-performance Prolog compiler.
+- [YAP](https://github.com/vscosta/yap-6.3/) - High-performance Prolog compiler.
 - [Ciao](https://github.com/ciao-lang/ciao) - A Prolog system with many extensions.
 - [Eclipse CLP](https://eclipseclp.org/) - A constraint logic programming system.
 - [XSB](http://xsb.sourceforge.net/) - XSB logic programming and deductive database system.
