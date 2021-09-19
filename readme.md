@@ -213,6 +213,10 @@
 - [Introduction to Prolog](https://www.youtube.com/watch?v=GHLfeGN5OMk) - Hour-long introduction to Prolog.
 - [Programming In Prolog](https://youtu.be/gJOZZvYijqk) - Four-part video introduction.
 
+### Free Courses
+- [Prolog Online Training](https://www.youtube.com/playlist?list=PLWPirh4EWFpFLjsd3IUqymnCVBaz1Yagg) - Tutorials Point's series on Prolog.
+- [Prolog in Artificial Intelligence](https://www.youtube.com/playlist?list=PLWPirh4EWFpEYxjEJyDoqplBhJF91Mwkp) - Tutorials Point's series on Prolog with lectures relating Prolog to AI.
+
 ### Books
 
 - [Adventure in Prolog](http://www.amzi.com/AdventureInProlog/apreface.php) - Pragmatic approach to Prolog.
