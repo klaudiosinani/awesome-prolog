@@ -30,6 +30,7 @@
 - [Resources](#resources)
 	- [Tutorials](#tutorials)
 	- [Videos](#videos)
+	- [Free Courses](#free-courses)
 	- [Books](#books)
 	- [Community](#community)
 - [Contributing](#contributing)
