@@ -140,6 +140,7 @@
 ## Object Oriented Programming
 
 - [logtalk](http://www.swi-prolog.org/pack/list?p=logtalk) - Object oriented logic programming.
+- [OOP](https://www.scaler.com/topics/what-is-object-oriented-programming-oop/) - Concept of Object Oriented programming
 
 ## Parsing
 
