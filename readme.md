@@ -2,40 +2,6 @@
 
 > A curated list of open-source Prolog frameworks, libraries and resources.
 
-## Contents
-
-- [API Interfaces](#api-interfaces)
-- [Artificial Intelligence](#artificial-intelligence)
-- [Build Systems](#build-systems)
-- [Compilers](#compilers)
-- [Database](#database)
-- [Date](#date)
-- [Development](#development)
-- [IDE](#ide)
-- [Interpreters](#interpreters)
-- [JSON](#json)
-- [Logging](#logging)
-- [Machine Learning](#machine-learning)
-- [Math](#math)
-- [Miscellaneous](#miscellaneous)
-- [Native](#native)
-- [Object Oriented Programming](#object-oriented-programming)
-- [Parsing](#parsing)
-- [Regular Expressions](#regular-expressions)
-- [REST Frameworks](#rest-frameworks)
-- [Server](#server)
-- [Testing](#testing)
-- [Text Editor Extensions](#text-editor-extensions)
-- [Utilities](#utilities)
-- [Resources](#resources)
-	- [Tutorials](#tutorials)
-	- [Videos](#videos)
-	- [Free Courses](#free-courses)
-	- [Books](#books)
-	- [Community](#community)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## API interfaces
 
 - [twitter_pack](https://github.com/samwalrus/twitter_pack) - Twitter API interface.
