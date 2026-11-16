@@ -129,6 +129,7 @@
 - [yesbot](https://github.com/eazar001/yesbot) - IRC Bot.
 - [webconsole](http://www.swi-prolog.org/pack/list?p=webconsole) - Browser as HTML console.
 - [prologmud](https://github.com/TeamSPoon/prologmud_samples) - Online text adventure game.
+- [OnlineCompiler.io](https://onlinecompiler.io/prolog-online-compiler) - Run SWI-Prolog 10 programs online, in the browser or through a REST API.
 
 ## Native
 
